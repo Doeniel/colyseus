@@ -1,5 +1,5 @@
 {
-  "name": "colyseus-without-public-API",
+  "name": "colyseus",
   "private": true,
   "type": "module",
   "workspaces": [
